@@ -1,5 +1,7 @@
 # MinecraftWorld-labirint
 
+Графическая версия readme https://teaguardian.github.io/MinecraftWorld-labirint/
+
 # установка:
 
 github не может хранить мир целиком, поэтому миры будут храниться здесь: https://disk.yandex.ru/d/XgYNxaNqsHhDOQ (актуальная версия - v003)
